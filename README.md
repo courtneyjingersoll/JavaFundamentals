@@ -15,8 +15,11 @@ The following materials were utilized for practice, with their related code cont
   </ul>
 
 <h3>LeetCode.com</h3>
-  Packages related to this mater
   <ul>
-    <li>leetcode</li>
+    <li>practiceproblems</li>
   </ul>
 
+<h3>Interview Questions</h3>
+  <ul>
+    <li>practiceproblems</li>
+  </ul>
